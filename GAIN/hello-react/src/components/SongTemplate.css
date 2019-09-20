@@ -1,0 +1,42 @@
+.Song-template {
+    background: white;
+    width: 700px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    padding: 2rem;
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: 100;
+    background: #22b8cf;
+    box-shadow: 0 5px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); 
+    color: white;
+  }
+  
+  .form {
+   padding: 0.2rem;
+   background-color: rgb(70, 67, 67);
+  }
+  
+  .children {
+    min-height: 12rem;
+    box-shadow: 0 5px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); 
+    background-color: rgb(70, 67, 67);
+  }
+
+  .list-head {
+    margin:40px;
+    margin-left:0;
+    box-shadow: 0 5px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); 
+    width:700px;
+    padding: 8px;
+    font-size:large;
+    background-color: rgb(255, 255, 255);
+    margin-bottom:21px;
+  }
+
+  .table>thead>th {
+    padding-left: 10px;
+    font-size: larger;
+  }
