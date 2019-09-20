@@ -1,0 +1,29 @@
+.list-head {
+    margin:30px;
+    margin-left:34px;
+    width: 700px;
+    padding: 8px;
+    font-size:20px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom:2px;
+  }
+
+  .list-body {
+    margin-top:7px;
+    margin-left:34px;
+    padding-left: 10px;
+    width: 700px;
+    font-size: 15px;
+  }
+
+  .musicTable {
+    box-shadow: 0 5px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); 
+    margin-left: -10px;
+    width: 700px;
+  }
+
+  .musicTable th {
+    text-align: center;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+  }
